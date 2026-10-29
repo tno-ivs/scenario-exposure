@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Scenario exposure logo" width="400" />
+  <img src="assets/images/logo.png" alt="Scenario exposure logo" width="400" />
 </p>
 
 # Scenario exposure
@@ -39,3 +39,14 @@ uv run example_kde_nf_comparison.py
   ```bash
   uv run pytest -s --cov=scenario_exposure --cov-report=term-missing --typeguard-packages=scenario_exposure
   ```
+
+## Acknowledgements
+This package is developed as part of the [SYNERGIES project](https://synergies-ccam.eu/).
+
+<img src="assets/images/synergies.svg" alt="SYNERGIES logo" width="300" />
+
+
+Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Climate, Infrastructure and Environment Executive Agency (CINEA). Neither the European Union nor the granting authority can be held responsible for them.
+
+
+<img src="assets/images/funded_by_eu.svg" alt="Funded by EU logo" width="300" />
