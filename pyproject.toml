@@ -2,6 +2,10 @@
 name = "scenario-exposure"
 version = "0.1.0"
 description = "Calculate probability density (for scenarios)."
+authors = [
+    {name = "Erwin de Gelder", email = "erwin@aptly.works"},
+    {name = "Jose Diaz Mendoza", email = "jose.diazmendoza@tno.nl"},
+]
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
